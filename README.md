@@ -4,7 +4,7 @@ This is a simple implementation of the Hangman game using Java.
 
 ## Getting Started
 
-To run the game, you will need to have Java installed on your system. You can run the game by executing the following command in your terminal:
+To run the game, we need to have Java installed in our system. We can run the game by executing the following command in our terminal:
 
 java Main.java
 
@@ -23,8 +23,6 @@ java Main.java
 The project consists of the following files:
 
 Main.java: The main Java file that contains the implementation of the game.
-
-README.md: The file you are currently reading that provides information about the project.
 
 ## Acknowledgements:
 
